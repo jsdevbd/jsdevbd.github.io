@@ -12,6 +12,10 @@
 - [API (2.x)](https://vuejs.org/v2/api/#Global-Config)
 - [Vuemastery Courses (watch free videos)](https://www.vuemastery.com/courses/)
 
+#### Unit Testing
+
+- [Unit Testing (Official)](https://vuejs.org/v2/guide/unit-testing.html)
+
 ## Vuex (State Management)
 
 - [Official Docs (Recommend)](https://vuex.vuejs.org/guide/)
@@ -25,6 +29,7 @@
 - [Hackernews App (Vue2)](https://jsfiddle.net/yyx990803/4dr2fLb7/?utm_source=website&utm_medium=embed&utm_campaign=4dr2fLb7)
 - [Vuetable-2](https://ratiw.github.io/vuetable-2/#/)
 - [A Youtube Clone with VueJS, Webpack and Flexbox](https://medium.com/techtrument/build-a-video-player-like-youtube-in-vuejs-webpack-and-flexbox-b51ef9bede0b)
+
 
 ## Worth Reading
 
